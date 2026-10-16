@@ -1,0 +1,850 @@
+[
+  {
+    "id": "kepka-toms",
+    "name": "Кепка TOM’S",
+    "url": "https://toms-auto.ru/product/kepka-toms/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2026/09/hat.jpg",
+    "width": 474,
+    "height": 290,
+    "category": "accessory",
+    "variants": [],
+    "local": "assets/kepka-toms-supplied.webp",
+    "loading": "OK",
+    "defaultSize": null,
+    "suppliedAsset": {
+      "file": "Screenshot_16.png",
+      "alternateFile": null,
+      "packaging": "accessory",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/kepka-toms/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2026/09/hat.jpg"
+    }
+  },
+  {
+    "id": "toms-0w-20-hybrid",
+    "name": "TOM’S 0W-20 HYBRID",
+    "url": "https://toms-auto.ru/product/toms-0w-20-hybrid/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/05/1l-1.png",
+    "width": 392,
+    "height": 403,
+    "category": "engine",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/1l-1.png",
+        "width": 392,
+        "height": 403,
+        "alt": "1L",
+        "price": 2160,
+        "sku": "00410-TP020-01R",
+        "local": "assets/toms-0w-20-hybrid-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_10.png"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-1.png",
+        "width": 800,
+        "height": 801,
+        "alt": "4L",
+        "price": 6732,
+        "sku": "00410-TP020-04R",
+        "local": "assets/toms-0w-20-hybrid-4l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "20l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/20l-1.png",
+        "width": 800,
+        "height": 801,
+        "alt": "20L",
+        "price": 32036,
+        "sku": "00410-TP020-20R",
+        "local": "assets/toms-0w-20-hybrid-20l.webp",
+        "loading": "OK"
+      }
+    ],
+    "local": "assets/toms-0w-20-hybrid-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "1l",
+    "suppliedAsset": {
+      "file": "Screenshot_10.png",
+      "alternateFile": null,
+      "packaging": "1l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-0w-20-hybrid/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/1l-1.png"
+    }
+  },
+  {
+    "id": "toms-0w-20-pao",
+    "name": "TOM’S 0W-20 PAO",
+    "url": "https://toms-auto.ru/product/toms-0w-20-pao/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4.png",
+    "width": 456,
+    "height": 422,
+    "category": "engine",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/1l-3.png",
+        "width": 800,
+        "height": 801,
+        "alt": "1L",
+        "price": 2118,
+        "sku": "00410-TP020-01P",
+        "local": "assets/toms-0w-20-pao-1l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4.png",
+        "width": 456,
+        "height": 422,
+        "alt": "Tom&#8217;S 0W-20 Pao",
+        "price": 6800,
+        "sku": "00410-TP020-04P",
+        "local": "assets/toms-0w-20-pao-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_1.png"
+      },
+      {
+        "size": "200l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/200L-3.png",
+        "width": 800,
+        "height": 801,
+        "alt": "200L",
+        "price": 293118,
+        "sku": "00410-TP020-200P",
+        "local": "assets/toms-0w-20-pao-200l.webp",
+        "loading": "OK"
+      }
+    ],
+    "local": "assets/toms-0w-20-pao-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_1.png",
+      "alternateFile": null,
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-0w-20-pao/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4.png"
+    }
+  },
+  {
+    "id": "toms-0w-20",
+    "name": "TOM’S 0W-20",
+    "url": "https://toms-auto.ru/product/toms-0w-20/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/01/4-litters.png",
+    "width": 404,
+    "height": 418,
+    "category": "engine",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/04/1litter.png",
+        "width": 800,
+        "height": 801,
+        "alt": "1Litter",
+        "price": 1836,
+        "sku": "00410-TP020-01",
+        "local": "assets/toms-0w-20-1l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/01/4-litters.png",
+        "width": 404,
+        "height": 418,
+        "alt": "4 Litters",
+        "price": 5717,
+        "sku": "00410-TP020-04",
+        "local": "assets/toms-0w-20-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_9.png"
+      },
+      {
+        "size": "20l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/04/20-litters.png",
+        "width": 800,
+        "height": 801,
+        "alt": "20 Litters",
+        "price": 27725,
+        "sku": "00410-TP020-20",
+        "local": "assets/toms-0w-20-20l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "200l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/04/200-Litters.png",
+        "width": 800,
+        "height": 801,
+        "alt": "200 Litters",
+        "price": 249355,
+        "sku": "00410-TP020-200",
+        "local": "assets/toms-0w-20-200l.webp",
+        "loading": "OK"
+      }
+    ],
+    "local": "assets/toms-0w-20-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_9.png",
+      "alternateFile": null,
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-0w-20/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/01/4-litters.png"
+    }
+  },
+  {
+    "id": "toms-0w-30-dl-1",
+    "name": "TOM’S 0W-30 DL-1",
+    "url": "https://toms-auto.ru/product/toms-0w-30-dl-1/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-5.png",
+    "width": 426,
+    "height": 414,
+    "category": "engine",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/1l-6.png",
+        "width": 800,
+        "height": 801,
+        "alt": "1L",
+        "price": 2370,
+        "sku": "00410-TD030-01",
+        "local": "assets/toms-0w-30-dl-1-1l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-5.png",
+        "width": 426,
+        "height": 414,
+        "alt": "4L",
+        "price": 8081,
+        "sku": "00410-TD030-04",
+        "local": "assets/toms-0w-30-dl-1-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_3.png"
+      }
+    ],
+    "local": "assets/toms-0w-30-dl-1-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_3.png",
+      "alternateFile": null,
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-0w-30-dl-1/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-5.png"
+    }
+  },
+  {
+    "id": "toms-0w-30",
+    "name": "TOM’S 0W-30",
+    "url": "https://toms-auto.ru/product/toms-0w-30/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-3.png",
+    "width": 450,
+    "height": 396,
+    "category": "engine",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/1l-4.png",
+        "width": 800,
+        "height": 801,
+        "alt": "1L",
+        "price": 2234,
+        "sku": "00410-TP030-01",
+        "local": "assets/toms-0w-30-1l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-3.png",
+        "width": 450,
+        "height": 396,
+        "alt": "4L",
+        "price": 6667,
+        "sku": "00410-TP030-04",
+        "local": "assets/toms-0w-30-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_2.png"
+      }
+    ],
+    "local": "assets/toms-0w-30-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_2.png",
+      "alternateFile": null,
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-0w-30/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-3.png"
+    }
+  },
+  {
+    "id": "toms-10w-40",
+    "name": "TOM’S 10W-40",
+    "url": "https://toms-auto.ru/product/toms-10w-40/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/04/4l.png",
+    "width": 404,
+    "height": 412,
+    "category": "engine",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/04/1l-1.png",
+        "width": 800,
+        "height": 801,
+        "alt": "1L",
+        "price": 1729,
+        "sku": "00410-TP140-01",
+        "local": "assets/toms-10w-40-1l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/04/4l.png",
+        "width": 404,
+        "height": 412,
+        "alt": "4L",
+        "price": 5277,
+        "sku": "00410-TP140-04",
+        "local": "assets/toms-10w-40-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_11.png"
+      },
+      {
+        "size": "20l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/04/20l.png",
+        "width": 800,
+        "height": 801,
+        "alt": "20L",
+        "price": 26213,
+        "sku": "00410-TP140-20",
+        "local": "assets/toms-10w-40-20l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "200l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/04/Toms200.png",
+        "width": 800,
+        "height": 801,
+        "alt": "Toms200",
+        "price": 236641,
+        "sku": "00410-TP140-200",
+        "local": "assets/toms-10w-40-200l.webp",
+        "loading": "OK"
+      }
+    ],
+    "local": "assets/toms-10w-40-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_11.png",
+      "alternateFile": null,
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-10w-40/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/04/4l.png"
+    }
+  },
+  {
+    "id": "toms-5w-30-c3",
+    "name": "TOM’S 5W-30-C3",
+    "url": "https://toms-auto.ru/product/toms-5w-30-c3/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4l.png",
+    "width": 420,
+    "height": 400,
+    "category": "engine",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/1l.png",
+        "width": 800,
+        "height": 801,
+        "alt": "1L",
+        "price": 2361,
+        "sku": "00410-TP530-01E",
+        "local": "assets/toms-5w-30-c3-1l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4l.png",
+        "width": 420,
+        "height": 400,
+        "alt": "4L",
+        "price": 6996,
+        "sku": "00410-TP530-04E",
+        "local": "assets/toms-5w-30-c3-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_5.png"
+      },
+      {
+        "size": "20l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/20L.png",
+        "width": 800,
+        "height": 801,
+        "alt": "20L",
+        "price": 33648,
+        "sku": "00410-TP530-20E",
+        "local": "assets/toms-5w-30-c3-20l.webp",
+        "loading": "OK"
+      }
+    ],
+    "local": "assets/toms-5w-30-c3-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_5.png",
+      "alternateFile": null,
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-5w-30-c3/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4l.png"
+    }
+  },
+  {
+    "id": "toms-5w-30-dl-1",
+    "name": "TOM’S 5W-30 DL-1",
+    "url": "https://toms-auto.ru/product/toms-5w-30-dl-1/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4litters.png",
+    "width": 381,
+    "height": 418,
+    "category": "engine",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/1l-2.png",
+        "width": 800,
+        "height": 801,
+        "alt": "1L",
+        "price": 2115,
+        "sku": "00410-TD530-01",
+        "local": "assets/toms-5w-30-dl-1-1l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4litters.png",
+        "width": 381,
+        "height": 418,
+        "alt": "4Litters",
+        "price": 6782,
+        "sku": "00410-TD530-04",
+        "local": "assets/toms-5w-30-dl-1-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_12.png"
+      },
+      {
+        "size": "20l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/20l-2.png",
+        "width": 800,
+        "height": 801,
+        "alt": "20L",
+        "price": 32217,
+        "sku": "00410-TD530-20",
+        "local": "assets/toms-5w-30-dl-1-20l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "200l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/200L-2.png",
+        "width": 800,
+        "height": 801,
+        "alt": "200L",
+        "price": 290573,
+        "sku": "00410-TD530-200",
+        "local": "assets/toms-5w-30-dl-1-200l.webp",
+        "loading": "OK"
+      }
+    ],
+    "local": "assets/toms-5w-30-dl-1-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_12.png",
+      "alternateFile": null,
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-5w-30-dl-1/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4litters.png"
+    }
+  },
+  {
+    "id": "toms-5w-30",
+    "name": "TOM’S 5W-30",
+    "url": "https://toms-auto.ru/product/toms-5w-30/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/04/oil_red_2_mob.png",
+    "width": 461,
+    "height": 404,
+    "category": "engine",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/04/1loil_red_2_mob.png",
+        "width": 800,
+        "height": 801,
+        "alt": "TOM'S 5W-30 1L — синтетическое моторное масло для бензиновых автомобилей",
+        "price": 1802,
+        "sku": "00410-TP530-01",
+        "local": "assets/toms-5w-30-1l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/04/oil_red_2_mob.png",
+        "width": 461,
+        "height": 404,
+        "alt": "Моторное масло TOM'S 5W-30 — полная синтетика для бензиновых двигателей",
+        "price": 5545,
+        "sku": "00410-TP530-04",
+        "local": "assets/toms-5w-30-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_4.png"
+      },
+      {
+        "size": "20l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/04/20-L-oil_red_2_mob.png",
+        "width": 800,
+        "height": 801,
+        "alt": "TOM'S 5W-30 20L — синтетическое моторное масло для больших объемов",
+        "price": 26412,
+        "sku": "00410-TP530-20",
+        "local": "assets/toms-5w-30-20l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "200l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/04/200-л-oil_red_2_mob.png",
+        "width": 800,
+        "height": 801,
+        "alt": "Моторное масло TOM'S 5W-30 200 литров синтетическое для бензиновых двигателей",
+        "price": 241822,
+        "sku": "00410-TP530-200",
+        "local": "assets/toms-5w-30-200l.webp",
+        "loading": "OK"
+      }
+    ],
+    "local": "assets/toms-5w-30-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_4.png",
+      "alternateFile": null,
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-5w-30/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/04/oil_red_2_mob.png"
+    }
+  },
+  {
+    "id": "toms-5w-40",
+    "name": "TOM’S 5W-40",
+    "url": "https://toms-auto.ru/product/toms-5w-40/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-4.png",
+    "width": 449,
+    "height": 410,
+    "category": "engine",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/1l-5.png",
+        "width": 800,
+        "height": 801,
+        "alt": "1L",
+        "price": 2141,
+        "sku": "00410-TP540-01E",
+        "local": "assets/toms-5w-40-1l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-4.png",
+        "width": 449,
+        "height": 410,
+        "alt": "4L",
+        "price": 6996,
+        "sku": "00410-TP540-04E",
+        "local": "assets/toms-5w-40-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_6.png"
+      },
+      {
+        "size": "20l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/20l-5.png",
+        "width": 800,
+        "height": 801,
+        "alt": "20L",
+        "price": 33663,
+        "sku": "00410-TP540-20E",
+        "local": "assets/toms-5w-40-20l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "200l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/200l-5.png",
+        "width": 800,
+        "height": 801,
+        "alt": "200L",
+        "price": 303118,
+        "sku": "00410-TP540-200E",
+        "local": "assets/toms-5w-40-200l.webp",
+        "loading": "OK"
+      }
+    ],
+    "local": "assets/toms-5w-40-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_6.png",
+      "alternateFile": null,
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-5w-40/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-4.png"
+    }
+  },
+  {
+    "id": "toms-75w-90-gl-5",
+    "name": "TOM’S 75W-90 GL-5",
+    "url": "https://toms-auto.ru/product/toms-75w-90-gl-5/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/05/75w-90-Gear-Oil.png",
+    "width": 373,
+    "height": 541,
+    "category": "transmission",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/75w-90-Gear-Oil.png",
+        "width": 373,
+        "height": 541,
+        "alt": "75W 90 Gear Oil",
+        "price": 2657,
+        "sku": "08885-TG7590-01",
+        "local": "assets/toms-75w-90-gl-5-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_19.png"
+      }
+    ],
+    "local": "assets/toms-75w-90-gl-5-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "1l",
+    "suppliedAsset": {
+      "file": "Screenshot_19.png",
+      "alternateFile": "Screenshot_13.png",
+      "packaging": "1l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-75w-90-gl-5/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/75w-90-Gear-Oil.png"
+    }
+  },
+  {
+    "id": "toms-at-f",
+    "name": "TOM’S AT-F",
+    "url": "https://toms-auto.ru/product/toms-at-f/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-6.png",
+    "width": 522,
+    "height": 597,
+    "category": "transmission",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/1l-7.png",
+        "width": 800,
+        "height": 801,
+        "alt": "1L",
+        "price": 2344,
+        "sku": "00410-TPATF-01",
+        "local": "assets/toms-at-f-1l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-6.png",
+        "width": 522,
+        "height": 597,
+        "alt": "4L",
+        "price": 7161,
+        "sku": "00410-TPATF-04",
+        "local": "assets/toms-at-f-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_17.png"
+      },
+      {
+        "size": "20l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/20L-7.png",
+        "width": 800,
+        "height": 801,
+        "alt": "20L",
+        "price": 36317,
+        "sku": "00410-TPATF-20",
+        "local": "assets/toms-at-f-20l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "200l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/200L-7.png",
+        "width": 800,
+        "height": 801,
+        "alt": "200L",
+        "price": 332413,
+        "sku": "00410-TPATF-200",
+        "local": "assets/toms-at-f-200l.webp",
+        "loading": "OK"
+      }
+    ],
+    "local": "assets/toms-at-f-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_17.png",
+      "alternateFile": "Screenshot_7.png",
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-at-f/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-6.png"
+    }
+  },
+  {
+    "id": "toms-cvt-f",
+    "name": "TOM’S CVT-F",
+    "url": "https://toms-auto.ru/product/toms-cvt-f/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-7.png",
+    "width": 463,
+    "height": 601,
+    "category": "transmission",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/1l-8.png",
+        "width": 800,
+        "height": 801,
+        "alt": "1L",
+        "price": 2409,
+        "sku": "00410-TPCVT-01",
+        "local": "assets/toms-cvt-f-1l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-7.png",
+        "width": 463,
+        "height": 601,
+        "alt": "4L",
+        "price": 8081,
+        "sku": "00410-TPCVT-04",
+        "local": "assets/toms-cvt-f-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_18.png"
+      },
+      {
+        "size": "20l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/20L-8.png",
+        "width": 800,
+        "height": 801,
+        "alt": "20L",
+        "price": 38603,
+        "sku": "00410-TPCVT-20",
+        "local": "assets/toms-cvt-f-20l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "200l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/200L-8.png",
+        "width": 800,
+        "height": 801,
+        "alt": "200L",
+        "price": 347331,
+        "sku": "00410-TPCVT-200",
+        "local": "assets/toms-cvt-f-200l.webp",
+        "loading": "OK"
+      }
+    ],
+    "local": "assets/toms-cvt-f-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_18.png",
+      "alternateFile": "Screenshot_8.png",
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-cvt-f/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-7.png"
+    }
+  },
+  {
+    "id": "toms-long-life-coolant-green",
+    "name": "Антифриз TOM’S Long Life Coolant Green",
+    "url": "https://toms-auto.ru/product/toms-long-life-coolant-green/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-11.png",
+    "width": 438,
+    "height": 416,
+    "category": "coolant",
+    "variants": [],
+    "local": "assets/toms-long-life-coolant-green-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_14.png",
+      "alternateFile": null,
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-long-life-coolant-green/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-11.png"
+    }
+  },
+  {
+    "id": "toms-long-life-coolant-red",
+    "name": "Антифриз TOM’S Long Life Coolant Red",
+    "url": "https://toms-auto.ru/product/toms-long-life-coolant-red/",
+    "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-10.png",
+    "width": 450,
+    "height": 409,
+    "category": "coolant",
+    "variants": [
+      {
+        "size": "1l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2026/07/toms_red_coolant_1l_white.jpg",
+        "width": 1920,
+        "height": 1920,
+        "alt": "TOM'S Long Life Coolant RED 1 л",
+        "price": 1194,
+        "sku": "08889-TLLCR-01",
+        "local": "assets/toms-long-life-coolant-red-1l.webp",
+        "loading": "OK"
+      },
+      {
+        "size": "4l",
+        "source": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-10.png",
+        "width": 450,
+        "height": 409,
+        "alt": "4L",
+        "price": 3147,
+        "sku": "08889-TLLCR-04",
+        "local": "assets/toms-long-life-coolant-red-supplied.webp",
+        "loading": "OK",
+        "suppliedFile": "Screenshot_15.png"
+      }
+    ],
+    "local": "assets/toms-long-life-coolant-red-supplied.webp",
+    "loading": "OK",
+    "defaultSize": "4l",
+    "suppliedAsset": {
+      "file": "Screenshot_15.png",
+      "alternateFile": null,
+      "packaging": "4l",
+      "authorization": "User supplied attachment; original TOM’S imagery and logo reuse previously confirmed",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-long-life-coolant-red/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-10.png"
+    }
+  }
+]

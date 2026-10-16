@@ -1,0 +1,192 @@
+{
+  "products": [
+    {
+      "product": "TOM’S 0W-20 PAO",
+      "file": "Screenshot_1.png",
+      "alternateFile": null,
+      "width": 456,
+      "height": 422,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-0w-20-pao/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4.png",
+      "local": "assets/toms-0w-20-pao-supplied.webp"
+    },
+    {
+      "product": "TOM’S 0W-30",
+      "file": "Screenshot_2.png",
+      "alternateFile": null,
+      "width": 450,
+      "height": 396,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-0w-30/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-3.png",
+      "local": "assets/toms-0w-30-supplied.webp"
+    },
+    {
+      "product": "TOM’S 0W-30 DL-1",
+      "file": "Screenshot_3.png",
+      "alternateFile": null,
+      "width": 426,
+      "height": 414,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-0w-30-dl-1/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-5.png",
+      "local": "assets/toms-0w-30-dl-1-supplied.webp"
+    },
+    {
+      "product": "TOM’S 5W-30",
+      "file": "Screenshot_4.png",
+      "alternateFile": null,
+      "width": 461,
+      "height": 404,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-5w-30/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/04/oil_red_2_mob.png",
+      "local": "assets/toms-5w-30-supplied.webp"
+    },
+    {
+      "product": "TOM’S 5W-30-C3",
+      "file": "Screenshot_5.png",
+      "alternateFile": null,
+      "width": 420,
+      "height": 400,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-5w-30-c3/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4l.png",
+      "local": "assets/toms-5w-30-c3-supplied.webp"
+    },
+    {
+      "product": "TOM’S 5W-40",
+      "file": "Screenshot_6.png",
+      "alternateFile": null,
+      "width": 449,
+      "height": 410,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-5w-40/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-4.png",
+      "local": "assets/toms-5w-40-supplied.webp"
+    },
+    {
+      "product": "TOM’S AT-F",
+      "file": "Screenshot_17.png",
+      "alternateFile": "Screenshot_7.png",
+      "width": 522,
+      "height": 597,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-at-f/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-6.png",
+      "local": "assets/toms-at-f-supplied.webp"
+    },
+    {
+      "product": "TOM’S CVT-F",
+      "file": "Screenshot_18.png",
+      "alternateFile": "Screenshot_8.png",
+      "width": 463,
+      "height": 601,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-cvt-f/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4l-7.png",
+      "local": "assets/toms-cvt-f-supplied.webp"
+    },
+    {
+      "product": "TOM’S 0W-20",
+      "file": "Screenshot_9.png",
+      "alternateFile": null,
+      "width": 404,
+      "height": 418,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-0w-20/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/01/4-litters.png",
+      "local": "assets/toms-0w-20-supplied.webp"
+    },
+    {
+      "product": "TOM’S 0W-20 HYBRID",
+      "file": "Screenshot_10.png",
+      "alternateFile": null,
+      "width": 392,
+      "height": 403,
+      "packaging": "1l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-0w-20-hybrid/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/1l-1.png",
+      "local": "assets/toms-0w-20-hybrid-supplied.webp"
+    },
+    {
+      "product": "TOM’S 10W-40",
+      "file": "Screenshot_11.png",
+      "alternateFile": null,
+      "width": 404,
+      "height": 412,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-10w-40/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/04/4l.png",
+      "local": "assets/toms-10w-40-supplied.webp"
+    },
+    {
+      "product": "TOM’S 5W-30 DL-1",
+      "file": "Screenshot_12.png",
+      "alternateFile": null,
+      "width": 381,
+      "height": 418,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-5w-30-dl-1/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4litters.png",
+      "local": "assets/toms-5w-30-dl-1-supplied.webp"
+    },
+    {
+      "product": "TOM’S 75W-90 GL-5",
+      "file": "Screenshot_19.png",
+      "alternateFile": "Screenshot_13.png",
+      "width": 373,
+      "height": 541,
+      "packaging": "1l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-75w-90-gl-5/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/75w-90-Gear-Oil.png",
+      "local": "assets/toms-75w-90-gl-5-supplied.webp"
+    },
+    {
+      "product": "Антифриз TOM’S Long Life Coolant Green",
+      "file": "Screenshot_14.png",
+      "alternateFile": null,
+      "width": 438,
+      "height": 416,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-long-life-coolant-green/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-11.png",
+      "local": "assets/toms-long-life-coolant-green-supplied.webp"
+    },
+    {
+      "product": "Антифриз TOM’S Long Life Coolant Red",
+      "file": "Screenshot_15.png",
+      "alternateFile": null,
+      "width": 450,
+      "height": 409,
+      "packaging": "4l",
+      "officialProductUrl": "https://toms-auto.ru/product/toms-long-life-coolant-red/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2025/05/4L-10.png",
+      "local": "assets/toms-long-life-coolant-red-supplied.webp"
+    },
+    {
+      "product": "Кепка TOM’S",
+      "file": "Screenshot_16.png",
+      "alternateFile": null,
+      "width": 474,
+      "height": 290,
+      "packaging": null,
+      "officialProductUrl": "https://toms-auto.ru/product/kepka-toms/",
+      "officialImageUrl": "https://toms-auto.ru/wp-content/uploads/2026/09/hat.jpg",
+      "local": "assets/kepka-toms-supplied.webp"
+    }
+  ],
+  "logo": {
+    "file": "Toms-logo.png.webp",
+    "local": "assets/logo.webp",
+    "width": 512,
+    "height": 150
+  },
+  "notes": [
+    "Screenshots 17/18/19 selected over 7/8/13 for higher native resolution of the same products.",
+    "Hero uses the previously verified higher-resolution official 4 L source images, showing the same products as supplied; product cards, categories and corresponding size previews use the supplied attachments.",
+    "No upscaling, recoloring, label editing or background removal. Lossless WebP copies preserve supplied image identity.",
+    "HYBRID attachment is 1 L. Its main card and initial preview correctly use 1 L; selecting 4/20 L uses the previously verified official corresponding image."
+  ]
+}

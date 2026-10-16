@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-16",
+  "products": 16,
+  "variants": 44,
+  "assetDecode": "PASS",
+  "filters": "PASS",
+  "searchAndReset": "PASS",
+  "productDialogs": "PASS",
+  "allVariantImageChanges": "PASS",
+  "oilViscosityFilter": "PASS",
+  "dealerCitySwitch": "PASS",
+  "mobileMenuDOM": "PASS",
+  "desktopAndMobileBrowserVisualQA": "NOT RUN: no browser surfaces available; this is DOM verification only",
+  "jsErrors": []
+}
